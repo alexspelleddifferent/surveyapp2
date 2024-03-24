@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">survey app</string>
+    <string name="question">Do you like your classes?</string>
+    <string name="left_q">Yes</string>
+    <string name="left_count">Yes: %1$d</string>
+    <string name="right_q">No</string>
+    <string name="right_count">No: %1$d</string>
+</resources>
